@@ -1,0 +1,14 @@
+{
+  "name": "fem-easybank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thecodercoder/fem-easybank.git",
+  "author": "anhtudo97 <anhtudo97@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
+}
